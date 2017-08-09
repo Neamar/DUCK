@@ -1,0 +1,12 @@
+---
+layout: artwork
+category: artwork
+title: "Last Sled to Dawson"
+permalink: "DUCK/last_sled_to_dawson"
+images:
+  "Cover":
+    image: "images/Last Sled to Dawson_cover.jpg"
+  "First page":
+    image: "images/Last Sled to Dawson.jpg"
+    duck: "images/Last Sled to Dawson_DUCK.jpg"
+---

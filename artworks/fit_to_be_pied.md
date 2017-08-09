@@ -1,0 +1,10 @@
+---
+layout: artwork
+category: artwork
+title: "Fit To Be Pied"
+permalink: "DUCK/fit_to_be_pied"
+images:
+  "First page":
+    image: "images/Fit To Be Pied.jpg"
+    duck: "images/Fit To Be Pied_DUCK.jpg"
+---

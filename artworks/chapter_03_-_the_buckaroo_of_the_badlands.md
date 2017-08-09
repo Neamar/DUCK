@@ -2,7 +2,7 @@
 layout: artwork
 category: artwork
 title: "Chapter 03 - The Buckaroo of the Badlands"
-permalink: "DUCK/Chapter_03_-_The_Buckaroo_of_the_Badlands"
+permalink: "DUCK/chapter_03_-_the_buckaroo_of_the_badlands"
 images:
   "First page":
     image: "images/Chapter 03 - The Buckaroo of the Badlands.jpg"
