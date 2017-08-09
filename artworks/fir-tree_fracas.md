@@ -6,5 +6,6 @@ permalink: "DUCK/fir-tree_fracas"
 images:
   "First page":
     image: "images/Fir-Tree Fracas.jpg"
+    thumbnail: "images/thumbnails/Fir-Tree Fracas.jpg"
     duck: "images/Fir-Tree Fracas_DUCK.jpg"
 ---

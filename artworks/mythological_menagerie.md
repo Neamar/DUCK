@@ -6,4 +6,5 @@ permalink: "DUCK/mythological_menagerie"
 images:
   "First page":
     image: "images/Mythological Menagerie.jpg"
+    thumbnail: "images/thumbnails/Mythological Menagerie.jpg"
 ---

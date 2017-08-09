@@ -6,5 +6,6 @@ permalink: "DUCK/the_paper_chase"
 images:
   "First page":
     image: "images/The Paper Chase.jpg"
+    thumbnail: "images/thumbnails/The Paper Chase.jpg"
     duck: "images/The Paper Chase_DUCK.jpg"
 ---

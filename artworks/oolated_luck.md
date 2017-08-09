@@ -6,5 +6,6 @@ permalink: "DUCK/oolated_luck"
 images:
   "First page":
     image: "images/Oolated Luck.jpg"
+    thumbnail: "images/thumbnails/Oolated Luck.jpg"
     duck: "images/Oolated Luck_DUCK.jpg"
 ---

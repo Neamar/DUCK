@@ -6,8 +6,10 @@ permalink: "DUCK/chapter_03b_-_the_cowboy_captain_of_the_cutty_sark"
 images:
   "First page":
     image: "images/Chapter 03B - The Cowboy Captain of the Cutty Sark.jpg"
+    thumbnail: "images/thumbnails/Chapter 03B - The Cowboy Captain of the Cutty Sark.jpg"
     duck: "images/Chapter 03B - The Cowboy Captain of the Cutty Sark_DUCK.jpg"
   "Cover":
     image: "images/Chapter 03B - The Cowboy Captain of the Cutty Sark_cover.jpg"
+    thumbnail: "images/thumbnails/Chapter 03B - The Cowboy Captain of the Cutty Sark_cover.jpg"
     duck: "images/Chapter 03B - The Cowboy Captain of the Cutty Sark_cover_DUCK.jpg"
 ---

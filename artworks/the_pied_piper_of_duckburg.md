@@ -6,4 +6,5 @@ permalink: "DUCK/the_pied_piper_of_duckburg"
 images:
   "First page":
     image: "images/The Pied Piper of Duckburg.jpg"
+    thumbnail: "images/thumbnails/The Pied Piper of Duckburg.jpg"
 ---

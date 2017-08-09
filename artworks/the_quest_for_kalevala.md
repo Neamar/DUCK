@@ -6,7 +6,9 @@ permalink: "DUCK/the_quest_for_kalevala"
 images:
   "First page":
     image: "images/The Quest for Kalevala.jpg"
+    thumbnail: "images/thumbnails/The Quest for Kalevala.jpg"
     duck: "images/The Quest for Kalevala_DUCK.jpg"
   "Cover":
     image: "images/The Quest for Kalevala_cover.jpg"
+    thumbnail: "images/thumbnails/The Quest for Kalevala_cover.jpg"
 ---

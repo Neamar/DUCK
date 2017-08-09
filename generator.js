@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 var fs = require("fs");
 var data = require('./data.json');
@@ -24,6 +24,7 @@ Object.keys(data).forEach(function(key) {
     }
     content += "  \"" + label + "\":" + "\n";
     content += "    image: \"" + d.IMAGE[img].replace("DUCK", "images") + "\"" + "\n";
+    content += "    thumbnail: \"" + d.IMAGE[img].replace("DUCK", "images/thumbnails") + "\"" + "\n";
     if(d.DUCK[img]) {
       content += "    duck: \"" + d.DUCK[img].replace("DUCK", "images") + "\"" + "\n";
     }

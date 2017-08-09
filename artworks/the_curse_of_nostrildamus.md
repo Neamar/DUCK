@@ -6,5 +6,6 @@ permalink: "DUCK/the_curse_of_nostrildamus"
 images:
   "First page":
     image: "images/The Curse Of Nostrildamus.jpg"
+    thumbnail: "images/thumbnails/The Curse Of Nostrildamus.jpg"
     duck: "images/The Curse Of Nostrildamus_DUCK.jpg"
 ---
