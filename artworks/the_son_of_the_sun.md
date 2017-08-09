@@ -7,7 +7,7 @@ images:
   "Cover":
     image: "images/The Son Of The Sun_cover.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun_cover.jpg"
-  "last":
+  "Last page":
     image: "images/The Son Of The Sun_last.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun_last.jpg"
     duck: "images/The Son Of The Sun_last_DUCK.jpg"

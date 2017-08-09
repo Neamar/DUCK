@@ -22,6 +22,9 @@ Object.keys(data).forEach(function(key) {
     else if(label === "cover") {
       label = "Cover";
     }
+    else if(label === "last") {
+      label = "Last page";
+    }
     content += "  \"" + label + "\":" + "\n";
     content += "    image: \"" + d.IMAGE[img].replace("DUCK", "images") + "\"" + "\n";
     content += "    thumbnail: \"" + d.IMAGE[img].replace("DUCK", "images/thumbnails") + "\"" + "\n";
