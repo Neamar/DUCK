@@ -7,6 +7,6 @@
 
 	{% for image in page.images %}
 		<h2>{{ image[0] }}</h2>
-		<img src="{{ image[1].image | prepend: site.baseurl }}" alt="{{ page.title }} {{ image[0] }}">
+		<img src="{{ site.baseurl }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}">
 	{% endfor %}
 </body>
