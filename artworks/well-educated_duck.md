@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Well-Educated Duck.jpg"
     thumbnail: "images/thumbnails/Well-Educated Duck.jpg"
+    comment: "No dedication"
 ---

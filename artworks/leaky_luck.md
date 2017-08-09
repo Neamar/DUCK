@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Leaky Luck.jpg"
     thumbnail: "images/thumbnails/Leaky Luck.jpg"
+    comment: "No dedication"
 ---

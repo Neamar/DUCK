@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Give Unto Others.jpg"
     thumbnail: "images/thumbnails/Give Unto Others.jpg"
+    comment: "No dedication."
 ---

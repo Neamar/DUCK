@@ -11,6 +11,7 @@ images:
   "first page":
     image: "images/The Son Of The Sun.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun.jpg"
+    comment: "No dedication"
   "last page":
     image: "images/The Son Of The Sun_last.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun_last.jpg"

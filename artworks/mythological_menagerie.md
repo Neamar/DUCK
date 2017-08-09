@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Mythological Menagerie.jpg"
     thumbnail: "images/thumbnails/Mythological Menagerie.jpg"
+    comment: "No dedication"
 ---

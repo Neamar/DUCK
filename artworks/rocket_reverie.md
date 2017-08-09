@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Rocket Reverie.jpg"
     thumbnail: "images/thumbnails/Rocket Reverie.jpg"
+    comment: "No dedication"
 ---

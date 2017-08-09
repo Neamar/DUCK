@@ -57,7 +57,7 @@ Object.keys(data).forEach(function(key) {
       content += "    duck: \"" + d.DUCK[img].replace("DUCK", "images") + "\"" + "\n";
     }
 
-    if(comments[key] && label === 'First page') {
+    if(comments[key] && label === 'first page') {
       content += "    comment: \"" + comments[key] + "\"" + "\n";
     }
     else if(comments[key + "_" + img]) {

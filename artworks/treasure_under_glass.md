@@ -11,4 +11,5 @@ images:
   "first page":
     image: "images/Treasure Under Glass.jpg"
     thumbnail: "images/thumbnails/Treasure Under Glass.jpg"
+    comment: "No dedication"
 ---

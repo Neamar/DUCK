@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/On A Silver Platter.jpg"
     thumbnail: "images/thumbnails/On A Silver Platter.jpg"
+    comment: "No dedication"
 ---

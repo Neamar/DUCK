@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Fiscal Fitness.jpg"
     thumbnail: "images/thumbnails/Fiscal Fitness.jpg"
+    comment: "No dedication."
 ---

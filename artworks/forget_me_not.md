@@ -7,4 +7,5 @@ images:
   "first page":
     image: "images/Forget Me Not.jpg"
     thumbnail: "images/thumbnails/Forget Me Not.jpg"
+    comment: "No dedication."
 ---

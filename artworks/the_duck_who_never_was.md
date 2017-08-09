@@ -11,4 +11,5 @@ images:
   "first page":
     image: "images/The Duck Who Never Was.jpg"
     thumbnail: "images/thumbnails/The Duck Who Never Was.jpg"
+    comment: "No dedication"
 ---

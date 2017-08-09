@@ -7,6 +7,7 @@ images:
   "first page":
     image: "images/On Stolen Time.jpg"
     thumbnail: "images/thumbnails/On Stolen Time.jpg"
+    comment: "No dedication"
   "cover":
     image: "images/On Stolen Time_cover.jpg"
     thumbnail: "images/thumbnails/On Stolen Time_cover.jpg"

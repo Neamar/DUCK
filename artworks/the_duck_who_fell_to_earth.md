@@ -7,6 +7,7 @@ images:
   "first page":
     image: "images/The Duck Who Fell To Earth.jpg"
     thumbnail: "images/thumbnails/The Duck Who Fell To Earth.jpg"
+    comment: "No dedication"
   "cover":
     image: "images/The Duck Who Fell To Earth_cover.jpg"
     thumbnail: "images/thumbnails/The Duck Who Fell To Earth_cover.jpg"

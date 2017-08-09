@@ -11,4 +11,5 @@ images:
   "first page":
     image: "images/The Universal Solvent.jpg"
     thumbnail: "images/thumbnails/The Universal Solvent.jpg"
+    comment: "No dedication"
 ---
