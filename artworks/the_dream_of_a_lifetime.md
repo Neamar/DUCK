@@ -4,11 +4,11 @@ category: artwork
 title: "The Dream Of A Lifetime"
 permalink: "DUCK/the_dream_of_a_lifetime"
 images:
-  "Cover":
+  "cover":
     image: "images/The Dream Of A Lifetime_cover.jpg"
     thumbnail: "images/thumbnails/The Dream Of A Lifetime_cover.jpg"
     duck: "images/The Dream Of A Lifetime_cover_DUCK.jpg"
-  "First page":
+  "first page":
     image: "images/The Dream Of A Lifetime.jpg"
     thumbnail: "images/thumbnails/The Dream Of A Lifetime.jpg"
     duck: "images/The Dream Of A Lifetime_DUCK.jpg"

@@ -4,7 +4,7 @@ category: artwork
 title: "Leaky Luck"
 permalink: "DUCK/leaky_luck"
 images:
-  "First page":
+  "first page":
     image: "images/Leaky Luck.jpg"
     thumbnail: "images/thumbnails/Leaky Luck.jpg"
 ---

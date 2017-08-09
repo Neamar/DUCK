@@ -19,15 +19,23 @@ function hide(id) {
 	<h1>{{ page.title }}</h1>
 	<p><a href="{{site.github.url }}/">Home</a></p>
 	{% for image in page.images %}
-		<h2 id="{{image[0]|slugify}}">{{ image[0] }}</h2>
+		<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
 		<div id="{{image[0]|slugify}}-image">
+			{% if image[1].duck %}
 			<p><a href="javascript:show('{{image[0]|slugify}}')">Click to highlight</a></p>
+			{% else if image[1].comment %}
+			<p>{{image[1].comment}}</p>
+			{% else %}
+			<p>D.U.C.K not found</p>
+			{% endif %}
 			<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" />
 		</div>
 
+		{% if image[1].duck %}
 		<div id="{{image[0]|slugify}}-duck" style="display: none">
 			<p><a href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a></p>
 			<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" />
 		</div>
+		{% endif %}
 	{% endfor %}
 </body>

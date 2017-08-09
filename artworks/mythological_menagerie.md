@@ -4,7 +4,7 @@ category: artwork
 title: "Mythological Menagerie"
 permalink: "DUCK/mythological_menagerie"
 images:
-  "First page":
+  "first page":
     image: "images/Mythological Menagerie.jpg"
     thumbnail: "images/thumbnails/Mythological Menagerie.jpg"
 ---

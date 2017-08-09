@@ -4,11 +4,12 @@ category: artwork
 title: "The Quest for Kalevala"
 permalink: "DUCK/the_quest_for_kalevala"
 images:
-  "First page":
+  "first page":
     image: "images/The Quest for Kalevala.jpg"
     thumbnail: "images/thumbnails/The Quest for Kalevala.jpg"
     duck: "images/The Quest for Kalevala_DUCK.jpg"
-  "Cover":
+  "cover":
     image: "images/The Quest for Kalevala_cover.jpg"
     thumbnail: "images/thumbnails/The Quest for Kalevala_cover.jpg"
+    comment: "No dedication"
 ---

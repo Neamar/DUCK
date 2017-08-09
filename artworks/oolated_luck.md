@@ -4,7 +4,7 @@ category: artwork
 title: "Oolated Luck"
 permalink: "DUCK/oolated_luck"
 images:
-  "First page":
+  "first page":
     image: "images/Oolated Luck.jpg"
     thumbnail: "images/thumbnails/Oolated Luck.jpg"
     duck: "images/Oolated Luck_DUCK.jpg"

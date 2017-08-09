@@ -4,7 +4,7 @@ category: artwork
 title: "Forget Me Not"
 permalink: "DUCK/forget_me_not"
 images:
-  "First page":
+  "first page":
     image: "images/Forget Me Not.jpg"
     thumbnail: "images/thumbnails/Forget Me Not.jpg"
 ---

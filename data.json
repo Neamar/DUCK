@@ -793,11 +793,11 @@
    "The Son Of The Sun":{
       "IMAGE":{
          "cover":"DUCK\/The Son Of The Sun_cover.jpg",
-         "last":"DUCK\/The Son Of The Sun_last.jpg",
-         "first page":"DUCK\/The Son Of The Sun.jpg"
+         "first page":"DUCK\/The Son Of The Sun.jpg",
+         "last page":"DUCK\/The Son Of The Sun_last.jpg"
       },
       "DUCK":{
-         "last":"DUCK\/The Son Of The Sun_last_DUCK.jpg"
+         "last page":"DUCK\/The Son Of The Sun_last_DUCK.jpg"
       }
    },
    "The Three Caballeros Ride Again":{

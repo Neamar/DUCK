@@ -4,7 +4,7 @@ category: artwork
 title: "Nobody's Business"
 permalink: "DUCK/nobody's_business"
 images:
-  "First page":
+  "first page":
     image: "images/Nobody's Business.jpg"
     thumbnail: "images/thumbnails/Nobody's Business.jpg"
   "last page":

@@ -4,10 +4,10 @@ category: artwork
 title: "Recalled Wreck"
 permalink: "DUCK/recalled_wreck"
 images:
-  "First page":
+  "first page":
     image: "images/Recalled Wreck.jpg"
     thumbnail: "images/thumbnails/Recalled Wreck.jpg"
-  "Cover":
+  "cover":
     image: "images/Recalled Wreck_cover.jpg"
     thumbnail: "images/thumbnails/Recalled Wreck_cover.jpg"
     duck: "images/Recalled Wreck_cover_DUCK.jpg"
