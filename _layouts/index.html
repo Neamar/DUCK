@@ -10,7 +10,7 @@ Comic images available from these pages are © The Walt Disney Company. They are
 	<h2><a href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a></h2>
 
 	{% for image in artwork.images %}
-		<a href="{{ site.github.url }}/{{ artwork.permalink }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
+		<a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
 	{% endfor %}
 {% endfor %}
 </body>
