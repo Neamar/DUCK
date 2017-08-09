@@ -3,4 +3,8 @@
 	<title>{{ page.title }}</title>
 </head>
 <body>
+
+{% for artwork in site.pages %}
+	<li><a href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}"">{{ artwork.title }}</a></li>
+{% endfor %}
 </body>
