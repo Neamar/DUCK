@@ -8,5 +8,6 @@ This is an acronym for `Dedicated to Unca Carl from Keno`. Because Disney would 
 This project aims to find all the D.U.C.K in all of Don Rosa artwork -- a giant "where's Waldo" with Uncle Scrooge.
 
 
+----
 <small>This site is an uncommercial fanpage.
 Comic images available from these pages are © The Walt Disney Company. They are provided for purposes of study and reference only. Disney's copyright is acknowledged and respected. Nothing shown in these pages is meant as a Copyright Infringement</small>
