@@ -1,0 +1,12 @@
+<html>
+<head>
+	<title>D.U.C.K: {{ page.title }}</title>
+</head>
+<body>
+	<h1>{{ page.title }}</h1>
+
+	{% for image in page.images %}
+		<h2>{{ image[0] }}</h2>
+		<img src="{{ image[1].image | prepend: site.baseurl }}" alt="{{ page.title }} {{ image[0] }}">
+	{% endfor %}
+</body>
