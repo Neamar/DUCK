@@ -4,10 +4,6 @@ category: artwork
 title: "A Letter From Home"
 permalink: "DUCK/a_letter_from_home"
 images:
-  "first page":
-    image: "images/A Letter From Home.jpg"
-    thumbnail: "images/thumbnails/A Letter From Home.jpg"
-    duck: "images/A Letter From Home_DUCK.jpg"
   "cover":
     image: "images/A Letter From Home_cover.jpg"
     thumbnail: "images/thumbnails/A Letter From Home_cover.jpg"
@@ -16,4 +12,8 @@ images:
     image: "images/A Letter From Home_prologue.jpg"
     thumbnail: "images/thumbnails/A Letter From Home_prologue.jpg"
     comment: "Prologue has no dedication"
+  "first page":
+    image: "images/A Letter From Home.jpg"
+    thumbnail: "images/thumbnails/A Letter From Home.jpg"
+    duck: "images/A Letter From Home_DUCK.jpg"
 ---
