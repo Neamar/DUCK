@@ -11,3 +11,7 @@ This project aims to find all the D.U.C.K in all of Don Rosa artwork -- a giant 
 ----
 <small>This site is an uncommercial fanpage.
 Comic images available from these pages are © The Walt Disney Company. They are provided for purposes of study and reference only. Disney's copyright is acknowledged and respected. Nothing shown in these pages is meant as a Copyright Infringement</small>
+
+## Tech
+### How to generate thumbnails?
+> convert images/A\ Letter\ From\ Home_cover.jpg -thumbnail 250x300 images/thumbnails/A\ Letter\ From\ Home_cover.jpg 
