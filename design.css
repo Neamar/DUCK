@@ -1,0 +1,20 @@
+body {
+  color: #36312d;
+}
+
+.wrapper {
+  background-color: #333
+}
+
+.content {
+  background-color: white;
+}
+
+.menu {
+  background-color: white;
+}
+
+.artwork {
+  margin: auto;
+  display: block;
+}

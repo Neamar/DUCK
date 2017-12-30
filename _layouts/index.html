@@ -1,8 +1,7 @@
-<html>
-<head>
-	<title>{{ page.title }}</title>
-</head>
-<body>
+---
+layout: template
+---
+
 <p><small>This site is an uncommercial fanpage.
 Comic images available from these pages are © The Walt Disney Company. They are provided for purposes of study and reference only. Disney's copyright is acknowledged and respected. Nothing shown in these pages is meant as a Copyright Infringement</small></p>
 
@@ -13,4 +12,3 @@ Comic images available from these pages are © The Walt Disney Company. They are
 		<a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
 	{% endfor %}
 {% endfor %}
-</body>
