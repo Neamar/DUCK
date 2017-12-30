@@ -10,6 +10,13 @@
     <div class="row">
       <header class="col-12 col-md-3 col-xl-2 menu">
         <h3>D.U.C.K</h3>
+
+        <div class="list-group artwork-list">
+        {% for artwork in site.pages %}
+          {% assign comparison = "/" | append: artwork.permalink %}
+          <a class="list-group-item list-group-action small {% if page.url == comparison %}active{% endif %}" href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a></li>
+        {% endfor %}
+        </ul>
       </header>
 
       <main class="col-12 col-md-9 col-xl-8 offset-xl-1 content">

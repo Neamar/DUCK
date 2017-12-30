@@ -32,5 +32,12 @@ body {
 h1, h2, h3 {
   font-family: cotidianabold, sans-serif;
   font-weight: bold;
+}
 
+.artwork-list .list-group-item {
+  padding: .5rem .75rem;
+}
+
+.toggle-dedication {
+  margin-top: 15px;
 }
