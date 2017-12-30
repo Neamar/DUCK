@@ -26,12 +26,9 @@ body {
 .artwork {
   margin: auto;
   display: block;
+  max-width: 90%;
 }
 
 h1, h2, h3 {
   font-family: cotidianabold
-}
-
-.artwork-image img {
-  max-width: 90%;
 }
