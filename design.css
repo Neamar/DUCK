@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'cotidianabold';
+  src: url('CSS/cotidianabold-webfont.woff2') format('woff2'),
+       url('CSS/cotidianabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 body {
   color: #36312d;
 }
@@ -17,4 +26,12 @@ body {
 .artwork {
   margin: auto;
   display: block;
+}
+
+h1, h2, h3 {
+  font-family: cotidianabold
+}
+
+.artwork-image img {
+  max-width: 90%;
 }

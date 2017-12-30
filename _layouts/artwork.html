@@ -2,11 +2,17 @@
 layout: template
 ---
 
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">All stories</a></li>
+    <li class="breadcrumb-item"><a href="{{ site.github.url }}/{{ page.permalink}}">{{ page.title }}</a></li>
+  </ol>
+</nav>
+
 <h1>{{ page.title }}</h1>
-<p><a href="{{site.github.url }}/">Home</a></p>
 {% for image in page.images %}
 	<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
-	<div id="{{image[0]|slugify}}-image">
+	<div id="{{image[0]|slugify}}-image" class="artwork-image">
 		{% if image[1].duck %}
 		<p><a href="javascript:show('{{image[0]|slugify}}')">Click to highlight</a></p>
 		{% else if image[1].comment %}
