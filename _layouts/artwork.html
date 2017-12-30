@@ -27,7 +27,7 @@ layout: template
 		  D.U.C.K. not found. Think you have it? Send an email at <tt>duck@neamar.fr</tt>!
 		</div>
 		{% endif %}
-		<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" class="artwork" />
+		<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].image }}" class="artwork" />
 		{% if image[1].duck %}
 		<p class="text-center toggle-dedication">
 			<a class="btn btn-primary" role="button" href="javascript:show('{{image[0]|slugify}}')">Click to highlight the D.U.C.K dedication</a>
@@ -37,8 +37,8 @@ layout: template
 
 	{% if image[1].duck %}
 	<div id="{{image[0]|slugify}}-duck" style="display: none">
-		<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" class="artwork" />
-		<p class="text-center">
+		<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].duck }}" class="artwork" />
+		<p class="text-center toggle-dedication">
 			<a class="btn btn-primary" role="button" href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a>
 		</p>
 	</div>
@@ -62,4 +62,22 @@ function hide(id) {
 	document.getElementById(id + "-duck").style.display = "none";
 	return false;
 }
+</script>
+
+<link rel="stylesheet" href="/css/magnify.css">
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="/js/jquery.magnify.js"></script>
+<!-- Optional mobile plugin (uncomment the line below to enable): -->
+<script src="/js/jquery.magnify-mobile.js"></script>
+
+<script>
+$(document).ready(function() {
+ //  $('.artwork').magnify({
+ //  	magnifiedWidth: 1500,
+ //  	magnifiedHeight: 1500,
+	//   afterLoad: function() {
+	//     console.log('Magnification powers activated!');
+	//   }
+	// });
+});
 </script>

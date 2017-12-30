@@ -1,14 +1,18 @@
 <html>
 <head>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
-  <link rel="stylesheet" media="all" href="/design.css" />
+  <link rel="stylesheet" media="all" href="/css/design.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
 </head>
 <body>
   <div class="container-fluid wrapper">
     <div class="row">
-      <header class="col-12 col-md-3 col-xl-2 menu">
+      <main class="col-12 col-md-9 col-xl-8 offset-xl-1 order-2 content">
+        {{ content }}
+      </main>
+
+      <header class="col-12 col-md-3 col-xl-2 order-1 menu">
         <h3>D.U.C.K</h3>
 
         <div class="list-group artwork-list">
@@ -18,10 +22,6 @@
         {% endfor %}
         </ul>
       </header>
-
-      <main class="col-12 col-md-9 col-xl-8 offset-xl-1 content">
-        {{ content }}
-      </div>
     </div>
   </div>
 </body>
