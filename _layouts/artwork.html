@@ -9,7 +9,15 @@ layout: template
   </ol>
 </nav>
 
-<h1>{{ page.title }}</h1>
+{% if page.more_info %}
+	<div class="jumbotron">
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.content | markdownify }}</p>
+	</div>
+{% else %}
+	<h1>{{ page.title }}</h1>
+{% endif %}
+
 <p class="lead">
 	In this page, you'll find images from Don Rosa's comic “{{ page.title }}”.<br />
 	By clicking on the button below each picture, you can display the <em>"<abbr title="Dedicated to Uncle Carl by Keno">D.U.C.K.</abbr>"</em> dedication.
