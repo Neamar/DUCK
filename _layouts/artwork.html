@@ -17,7 +17,7 @@ layout: template
 <p>As a game, Don Rosa hid the four letters in most of his artworks, and fans had a blast looking for them in the pictures.</p>
 {% for image in page.images %}
 	<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
-	<div id="{{image[0]|slugify}}-image">
+	<div id="{{image[0]|slugify}}-image" class="artwork-wrapper">
 		{% if image[1].comment %}
 		<div class="alert alert-secondary" role="alert">
 		  {{image[1].comment}}
@@ -36,7 +36,7 @@ layout: template
 	</div>
 
 	{% if image[1].duck %}
-	<div id="{{image[0]|slugify}}-duck" style="display: none">
+	<div id="{{image[0]|slugify}}-duck" style="display: none" class="artwork-wrapper">
 		<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].duck }}" class="artwork" />
 		<p class="text-center toggle-dedication">
 			<a class="btn btn-primary" role="button" href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a>
@@ -72,12 +72,12 @@ function hide(id) {
 
 <script>
 $(document).ready(function() {
- //  $('.artwork').magnify({
- //  	magnifiedWidth: 1500,
- //  	magnifiedHeight: 1500,
-	//   afterLoad: function() {
-	//     console.log('Magnification powers activated!');
-	//   }
-	// });
+  $('.artwork').magnify({
+  	magnifiedWidth: 1500,
+  	magnifiedHeight: 1500,
+	  afterLoad: function() {
+	    console.log('Magnification powers activated!');
+	  }
+	});
 });
 </script>

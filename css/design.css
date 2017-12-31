@@ -29,6 +29,11 @@ body {
   max-width: 90%;
 }
 
+.artwork-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
 h1, h2, h3 {
   font-family: cotidianabold, sans-serif;
   font-weight: bold;
