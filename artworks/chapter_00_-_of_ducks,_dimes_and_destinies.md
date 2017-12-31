@@ -12,4 +12,4 @@ images:
     duck: "images/Chapter 00 - Of Ducks, Dimes and Destinies_DUCK.jpg"
 ---
 
-"Of Ducks Dimes and Destinies", or "Of Ducks and Dimes and Destinies", is a Scrooge McDuck comic book released in 1995. Even though it was not originally a part of The Life and Times of Scrooge McDuck, it became Part 0.
+"Of Ducks Dimes and Destinies", or "Of Ducks and Dimes and Destinies", is a Scrooge McDuck comic book released in 1995. Even though it was not originally a part of "The Life and Times of Scrooge McDuck", it became Part 0.

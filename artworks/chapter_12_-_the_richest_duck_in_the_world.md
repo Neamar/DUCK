@@ -3,6 +3,8 @@ layout: artwork
 category: artwork
 title: "Chapter 12 - The Richest Duck in the World"
 permalink: "DUCK/chapter_12_-_the_richest_duck_in_the_world"
+serie: The Life and Times of Scrooge McDuck
+more_info: https://en.wikipedia.org/wiki/The_Richest_Duck_in_the_World
 images:
   "cover":
     image: "images/Chapter 12 - The Richest Duck in the World_cover.jpg"
@@ -17,3 +19,5 @@ images:
     thumbnail: "images/thumbnails/Chapter 12 - The Richest Duck in the World.jpg"
     duck: "images/Chapter 12 - The Richest Duck in the World_DUCK.jpg"
 ---
+
+"The Richest Duck in the World" or "The Recluse of McDuck Manor" is a Scrooge McDuck comic by Don Rosa. It is the twelfth of the original 12 chapters in the series The Life and Times of Scrooge McDuck. The story takes place on the Christmas Day, 1947.
