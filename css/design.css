@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'cotidianabold';
+  src: url('/css/cotidianabold-webfont.woff2') format('woff2'),
+       url('/css/cotidianabold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+body {
+  color: #36312d;
+}
+
+.wrapper {
+  background-color: #333
+}
+
+.content {
+  background-color: white;
+}
+
+.menu {
+  background-color: white;
+}
+
+.artwork {
+  margin: auto;
+  display: block;
+  max-width: 90%;
+}
+
+.artwork-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: cotidianabold, sans-serif;
+  font-weight: bold;
+}
+
+.artwork-list .list-group-item {
+  padding: .5rem .75rem;
+}
+
+.toggle-dedication {
+  margin-top: 15px;
+}

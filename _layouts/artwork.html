@@ -1,7 +1,58 @@
-<html>
-<head>
-	<title>D.U.C.K: {{ page.title }}</title>
-	<script>
+---
+layout: template
+---
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">All stories</a></li>
+    <li class="breadcrumb-item"><a href="{{ site.github.url }}/{{ page.permalink}}">{{ page.title }}</a></li>
+  </ol>
+</nav>
+
+<h1>{{ page.title }}</h1>
+<p class="lead">
+	In this page, you'll find images from Don Rosa's comic “{{ page.title }}”.<br />
+	By clicking on the button below each picture, you can display the <em>"<abbr title="Dedicated to Uncle Carl by Keno">D.U.C.K.</abbr>"</em> dedication.
+</p>
+<p>As a game, Don Rosa hid the four letters in most of his artworks, and fans had a blast looking for them in the pictures.</p>
+<p class="small">The dedication can be hard to find. Move your mouse over each picture to zoom-in!</p>
+
+{% for image in page.images %}
+	<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
+	<div id="{{image[0]|slugify}}-image" class="artwork-wrapper">
+		{% if image[1].comment %}
+		<div class="alert alert-secondary" role="alert">
+		  {{image[1].comment}}
+		</div>
+		{% elsif image[1].duck == blank %}
+		<div class="alert alert-secondary" role="alert">
+		  D.U.C.K. not found. Think you have it? Send an email at <tt>duck@neamar.fr</tt>!
+		</div>
+		{% endif %}
+		<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].image }}" class="artwork" />
+		{% if image[1].duck %}
+		<p class="text-center toggle-dedication">
+			<a class="btn btn-primary" role="button" href="javascript:show('{{image[0]|slugify}}')">Click to highlight the D.U.C.K dedication</a>
+		</p>
+		{% endif %}
+	</div>
+
+	{% if image[1].duck %}
+	<div id="{{image[0]|slugify}}-duck" style="display: none" class="artwork-wrapper">
+		<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].duck }}" class="artwork" />
+		<p class="text-center toggle-dedication">
+			<a class="btn btn-primary" role="button" href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a>
+		</p>
+	</div>
+	{% endif %}
+{% endfor %}
+
+<div class="alert alert-light" role="alert">
+  This site is an uncommercial fanpage.<br />
+  Comic images available from these pages are © The Walt Disney Company.
+</div>
+
+<script>
 function show(id) {
 	document.getElementById(id + "-image").style.display = "none";
 	document.getElementById(id + "-duck").style.display = "block";
@@ -13,36 +64,22 @@ function hide(id) {
 	document.getElementById(id + "-duck").style.display = "none";
 	return false;
 }
-	</script>
+</script>
 
-	<style>
-.artwork {
-	margin: auto;
-	display: block;
-}
-	</style>
-</head>
-<body>
-	<h1>{{ page.title }}</h1>
-	<p><a href="{{site.github.url }}/">Home</a></p>
-	{% for image in page.images %}
-		<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
-		<div id="{{image[0]|slugify}}-image">
-			{% if image[1].duck %}
-			<p><a href="javascript:show('{{image[0]|slugify}}')">Click to highlight</a></p>
-			{% else if image[1].comment %}
-			<p>{{image[1].comment}}</p>
-			{% else %}
-			<p>D.U.C.K not found</p>
-			{% endif %}
-			<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" class="artwork" />
-		</div>
+<link rel="stylesheet" href="/css/magnify.css">
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="/js/jquery.magnify.js"></script>
+<!-- Optional mobile plugin (uncomment the line below to enable): -->
+<script src="/js/jquery.magnify-mobile.js"></script>
 
-		{% if image[1].duck %}
-		<div id="{{image[0]|slugify}}-duck" style="display: none">
-			<p><a href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a></p>
-			<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" class="artwork" />
-		</div>
-		{% endif %}
-	{% endfor %}
-</body>
+<script>
+$(document).ready(function() {
+  $('.artwork').magnify({
+  	magnifiedWidth: 1500,
+  	magnifiedHeight: 1500,
+	  afterLoad: function() {
+	    console.log('Magnification powers activated!');
+	  }
+	});
+});
+</script>
