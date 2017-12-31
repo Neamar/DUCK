@@ -11,4 +11,4 @@ images:
     duck: "images/A Matter Of Some Gravity_DUCK.jpg"
 ---
 
-A Matter of Some Gravity is an Uncle Scrooge adventure comic written and drawn by Don Rosa in 1996 and includes Magica De Spell. Like some other comic stories by Rosa ([Cash Flow](/DUCK/cash_flow) and [The Universal Solvent](/DUCK/the_universal_solvent)), the story is founded with toying with the laws of nature. Rosa claims that he thinks that he got the ideas for those comics from a mechanical engineering course in an institute of higher education, which he took before he became a professional cartoonist.
+A Matter of Some Gravity is an Uncle Scrooge adventure comic written and drawn by Don Rosa in 1996 and includes Magica De Spell. Like some other comic stories by Rosa ([Cash Flow]({% link artworks/cash_flow.md %}) and [The Universal Solvent]({% link artworks/the_universal_solvent.md %})), the story is founded with toying with the laws of nature. Rosa claims that he thinks that he got the ideas for those comics from a mechanical engineering course in an institute of higher education, which he took before he became a professional cartoonist.

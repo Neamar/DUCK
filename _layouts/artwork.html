@@ -5,6 +5,9 @@ layout: template
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="/">All stories</a></li>
+    {% if page.serie %}
+    	<li class="breadcrumb-item"><a href="/">{{ page.serie }}</a></li>
+    {% endif %}
     <li class="breadcrumb-item"><a href="{{ site.github.url }}/{{ page.permalink}}">{{ page.title }}</a></li>
   </ol>
 </nav>
@@ -12,7 +15,7 @@ layout: template
 {% if page.more_info %}
 	<div class="jumbotron">
 		<h1>{{ page.title }}</h1>
-		<p>{{ page.content | markdownify }}</p>
+		<p>{{ content }}</p>
 		<p>
 			<a class="btn btn-outline-secondary btn-sm" href="{{ page.more_info }}" role="button">Learn more</a>
 		</p>
