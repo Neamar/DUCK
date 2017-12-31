@@ -17,8 +17,10 @@
 
         <div class="list-group artwork-list">
         {% for artwork in site.pages %}
-          {% assign comparison = "/" | append: artwork.permalink %}
-          <a class="list-group-item list-group-action small {% if page.url == comparison %}active{% endif %}" href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a></li>
+          {% if artwork.layout == "artwork" %}
+            {% assign comparison = "/" | append: artwork.permalink %}
+            <a class="list-group-item list-group-action small {% if page.url == comparison %}active{% endif %}" href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a></li>
+          {% endif %}
         {% endfor %}
         </ul>
       </header>
