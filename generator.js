@@ -41,7 +41,7 @@ Object.keys(data).forEach(function(key) {
   var d = data[key];
 
   var content = "---" + "\n";
-  var slug = key.replace(/ /g, '_').toLowerCase();
+  var slug = key.replace(/ /g, '_').replace(/\./g, '').toLowerCase();
   content += "layout: artwork" + "\n";
   content += "category: artwork" + "\n";
   content += "title: \"" + key + "\"" + "\n";
