@@ -17,3 +17,7 @@ images:
     thumbnail: "images/thumbnails/The Son Of The Sun_last.jpg"
     duck: "images/The Son Of The Sun_last_DUCK.jpg"
 ---
+
+The Son of the Sun" is the first Scrooge McDuck comic by Don Rosa, first published in 1987. It is a well-known comic book story that features Disney's Scrooge McDuck, Donald Duck, and Huey, Dewey, and Louie, most notable for establishing Don Rosa as a major talent in the Disney comic book industry, as well as fulfilling Rosa's childhood dream of becoming a writer and illustrator of stories featuring Scrooge McDuck.
+
+The combination of homage to Barks, clever and intelligent writing, appealing art, and dependence of the resolution of the plot on one of Scrooge's most redeeming character traits were instrumental in the reception of this storyline as a modern classic.

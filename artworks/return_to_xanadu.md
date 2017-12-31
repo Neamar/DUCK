@@ -19,4 +19,4 @@ images:
     duck: "images/Return To Xanadu_cover_DUCK.jpg"
 ---
 
-A sequel to Carl Barks "Tralla La" story.
+A sequel to Carl Barks "[Tralla La]({% link artworks/tralla_la.md %})" story.

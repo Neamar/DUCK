@@ -15,6 +15,6 @@ images:
     duck: "images/The Black Knight_DUCK.jpg"
 ---
 
-The Black Knight is a 1998 Scrooge McDuck story by Don Rosa.
+"The Black Knight" is a 1998 Scrooge McDuck story by Don Rosa.
 
 This story was a sequel to Rosa's story "[The Universal Solvent]({% link artworks/the_universal_solvent.md %})", and was likewise followed by "[The Black Knight Glorps Again]({% link artworks/the_black_knight_glorps_again.md %})".
