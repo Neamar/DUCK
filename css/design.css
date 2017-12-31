@@ -4,7 +4,6 @@
        url('/css/cotidianabold-webfont.woff') format('woff');
   font-weight: bold;
   font-style: normal;
-
 }
 
 body {
@@ -23,6 +22,13 @@ body {
   background-color: white;
 }
 
+h1, h2, h3 {
+  font-family: cotidianabold, sans-serif;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+/* Artwork page */
 .artwork {
   margin: auto;
   display: block;
@@ -34,11 +40,6 @@ body {
   text-align: center;
 }
 
-h1, h2, h3 {
-  font-family: cotidianabold, sans-serif;
-  font-weight: bold;
-}
-
 .artwork-list .list-group-item {
   padding: .5rem .75rem;
 }
@@ -47,6 +48,11 @@ h1, h2, h3 {
   margin-top: 15px;
 }
 
+/* Home page */
 .artworks h2 {
   margin-top: 35px;
+}
+
+.artworks img {
+  max-width: 100%;
 }
