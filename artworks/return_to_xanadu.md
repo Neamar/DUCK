@@ -3,6 +3,7 @@ layout: artwork
 category: artwork
 title: "Return To Xanadu"
 permalink: "DUCK/return_to_xanadu"
+more_info: https://en.wikipedia.org/wiki/Tralla_La
 images:
   "first page":
     image: "images/Return To Xanadu.JPG"
@@ -17,3 +18,5 @@ images:
     thumbnail: "images/thumbnails/Return To Xanadu_cover.jpg"
     duck: "images/Return To Xanadu_cover_DUCK.jpg"
 ---
+
+A sequel to Carl Barks "Tralla La" story.
