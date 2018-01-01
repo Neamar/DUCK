@@ -4,7 +4,12 @@
   <link rel="stylesheet" media="all" href="/css/design.css" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="/favicon.png">
-  <title>{{ page.title }}</title>
+  <title>{% if page.layout == "artwork" %}
+    D.U.C.K. dedication in "{{ page.title }}" by Don Rosa
+  {% else %}
+    {{ page.title }}
+  {% endif %}
+  </title>
 </head>
 <body>
   <div class="container-fluid wrapper">
