@@ -6,6 +6,9 @@ layout: template
 # Rosa on himself
 
 > Content imported from [http://stp.lingfil.uu.se/~starback/dcml/creators/rosa-on-himself.html](http://stp.lingfil.uu.se/~starback/dcml/creators/rosa-on-himself.html)
+> 
+> This script was quite useful in finding some dedication or restoring some cover to their original orientation.
+
 <p class="lead">This page consists of quotes from Don Rosa himself on himself, his duck stories and ducks in general. It's composed by Harry Fluks out of messages sent from Don Rosa to the mailing list on Disney comics (up to July 10th, 1994), and then adapted for WWW by Per Starbäck.</p>
 
 <H2><A NAME="address">Don's Address</A></H2>
@@ -30,7 +33,7 @@ to/from Titian, having proof in documents which have since been lost.
 There are still lots of Rosas in north Italy (I'm the last Rosa in America)
 and I hope to visit there someday...
 
-<P> What did I do before Ducks? My B.A. is in civil engineering and
+What did I do before Ducks? My B.A. is in civil engineering and
 I owned a construction company which was passed on to me from my father
 and grandfather who established it when he came to America in 1905.
 
@@ -40,7 +43,7 @@ I found that the same plots featuring Lance that people cared
 nothing for became VERY popular when I put the Ducks in them. That's
 the sort of knowledge that will always help me remember "my place".
 It's the DUCKS that make me popular.
-<P> I plan on turning ALL those stories into Duck stories eventually
+I plan on turning ALL those stories into Duck stories eventually
 at which time they'll be improved with slightly (but not much) better
 art and NO ROSA LETTERING.
 
@@ -53,12 +56,12 @@ value on anything I tell them I do, how I do it or the tools I use.
 I've just made it all up on my own and I have no notion of how it's
 supposed to be done. I'm sure there are much better methods, as my results
 and the time it takes for me to achieve even THEM attests.
-<P> Actually, Egmont dictates the size of my originals, which is
+Actually, Egmont dictates the size of my originals, which is
 okay by me, except maybe that they have me draw rather large, which only
 means I'll take that much more time to fit in more detail. I do each
 page in two halves, each half being about 12.5" X 9" (whatever that is
 in the metric system I use), making a full page about 12.5" X 18".
-<P> "Tools" are my biggest area of ignorance. If I knew what I was
+"Tools" are my biggest area of ignorance. If I knew what I was
 doing, I'd have learned how to use a single brush such as Van Horn might
 use. Instead, all I know are pens. I use up to EIGHT pens (and brushes)
 on EACH PANEL. I start with a calligraphy pen (which gives me line
@@ -71,7 +74,7 @@ areas, then a tiny brush to spend about a half-hour on each page WHITING
 OUT lots of mistakes, evening out the ends of cross-hatching, and
 blotting out whole vistas of needless and irritating detail that you
 never even see.
-<P> I use stacks of templates and curves. Templates are those plastic
+I use stacks of templates and curves. Templates are those plastic
 sheets with all sorts and sizes of circles, ellipses, ovals and such.
 I use these WHENEVER I can, often doing a large part of each page just
 with these "mechanical drawing" tools -- undoubtedly my engineering degree
@@ -83,7 +86,7 @@ every panel that involves a circle or angle-view of same, or any gentle
 curve like a motion line, ALL this will I ink meticulously with technical
 equipment! Obviously, this is not the technique of a normal cartoonist --
 it's the technique of an insane person.
-<P> I simply ink in empty balloons. The size I make the balloons is
+I simply ink in empty balloons. The size I make the balloons is
 guess-work -- my instructions are to generously estimate the balloon
 size for English (this will accomodate most languages) then ADD one full
 line for Finnish (this is called the Finnishing Touch). But the balloons
@@ -93,14 +96,14 @@ those extra large balloons (using stats), redrawn smaller ones and
 finished the art in around the smaller balloons. I am very grateful for
 the trouble they take to make my stories look nice by eliminating the
 big, bulky balloons.
-<P> Most of the needless and irritating detail is done in the
+Most of the needless and irritating detail is done in the
 pencil stage. On the other hand, some of what I feel are my best gags do
 not appear in my scripts, but leap off my pencil as I draw without my
 seeming to think about it. Actually, my scripts usually contain only
 plot and dialogue -- it's not until I draw the stuff that the stories
 become funny simply because I don't take my stories seriously. The humor
 is almost an afterthought.
-<P> I hope to draw a page a day. That doesn't mean I pencil
+I hope to draw a page a day. That doesn't mean I pencil
 and then ink one page at a time. But while I pencil I try to do 4
 half-pages per day, and later INK that same amount -- this then averages
 one full page per day. However, with the type of stuff I do, I NEVER
@@ -176,7 +179,7 @@ I shoulda lost that'n), and some reference to a giant hamburger chain a
 la McDonald's in the second tale I ever did (which I can't recall the
 title of!).
 
-<P> I do not see my stories taking place in chronological order unless
+I do not see my stories taking place in chronological order unless
 they are stated as such in internal references. We've been reading reprints
 for decades -- and that's sorta my whole idea of setting my tales in
 the 50's... I like to imagine them as reprints from the very years when
@@ -195,7 +198,7 @@ might invent next week. $crooge and Donald have been part of my entire
 life. I'm stuck with that.
 
 
-<P> As for me ever doing a Mickey Mouse story, there's no chance of
+As for me ever doing a Mickey Mouse story, there's no chance of
 that. There's no reason for me to. I am totally apathetic toward the
 character as being simply a cute configuration of lines. There's no
 personality. Sure, in the hands of another Barks, Mickey would become
@@ -213,14 +216,14 @@ It was in the last panel of the first one I did, "The Son of the Sun"...
 but Gladstone removed it since it looked as if it might be a signature.
 However, when they used that story in certain foreign countries, you can
 see the dedication still there. 
-<P> That dedication has been in every story I've ever done, in the
+That dedication has been in every story I've ever done, in the
 splash (first) panel after the first 2 stories... but early on at both
 Gladstone and Egmont the editors removed it. Now that I hide it and have
 explained what it is, it is no longer removed. I also started putting it
 on the covers as well, beginning with the covers I did for Disney Comics
 a few years ago.
 
-<P> Another detail that shows that my stories are out of chronological
+Another detail that shows that my stories are out of chronological
 order (not the "Life of" stories, of course - they're IN order) was in
 my very first comic "The Son of the Sun" where one exhibit in the McDuck
 show was for the treasure of Croesus -- a treasure that $crooge once
@@ -234,7 +237,7 @@ Business" -- in the first two stories I ever did I put it in the last,
 rather than first, panel... and it was left in that story since it
 looked like the title on a comic book on the floor.
 
-<P> I have NO fond memories of that story -- I think it was quite a
+I have NO fond memories of that story -- I think it was quite a
 come-down from "SotS", very forced and contrived. But as to those
 comics [Gladstone reads] -- you notice there were no Disney DUCK comics?
 That was to show my idea that in the Duck Universe, Mickey Mouse and the
@@ -272,7 +275,7 @@ That "On a Silver Platter" was (in my opinion) my very best
 10-page gag story!
 
 
-<P> The first page of "On a Silver Platter": that was one I did
+The first page of "On a Silver Platter": that was one I did
 years ago for Oberon who don't like my art; they had one of their
 artists pencil page one for me to show me how to do it. I recall they
 re-penciled two $crooge heads later in the story because they disliked
@@ -294,7 +297,7 @@ pointing to a tiny mouse saying "That's a MOUSE!" No big yuk, but the
 gag was rewritten into "The whole house is shaking!" "That mouse is
 shaking it!" These tiny imbecilities by editors are what drives people
 like me nuts!
-<P> WHY did I "stoop" to do this job? I had just lost my job with
+WHY did I "stoop" to do this job? I had just lost my job with
 Gladstone when Disney told them not to return my artwork (reducing my
 income to about $10,000 per year which I couldn't get by on). I needed
 WORK. And when they called, I still originally refused the idea of doing
@@ -313,7 +316,7 @@ the theme of that story (concerning the mentality of "collectibles
 profiteers") was a rather sour and serious matter with me.
 
 
-<P> Yes, $crooge's Money Bin has been dumped, converted to bills,
+Yes, $crooge's Money Bin has been dumped, converted to bills,
 moved, and utterly destroyed in many stories, a few of which *I* did.
 But in spite of how I view certain historical aspects of Barks' stories
 as set-in-stone (and I seek to set-into-Impervium with my series), there
@@ -338,7 +341,7 @@ time-freezing was going on would have solved that problem (and not been
 so silly an idea).
 
 
-<P> As for my "Frozen Time" story, if I froze time (!) I needed to
+As for my "Frozen Time" story, if I froze time (!) I needed to
 freeze it solid, not semi-solid... otherwise it would have been WAY too
 close to John D. MacDonald's short-story "The Girl, the Gold Watch and
 Everything" (which was made into two TV movies some years back). I had
@@ -355,7 +358,7 @@ exactly like putting together a jigsaw puzzle; I have the pieces but I
 can't see how they can fit together.
 
 
-<P> I don't mind if someone says that they don't care for my art
+I don't mind if someone says that they don't care for my art
 or my writing, or that they prefer some others to me (I'll sooner agree
 than disagree with that sort of stuff); but I really dislike hearing
 that people think I do sequels to Barks stories as some sort of
@@ -399,7 +402,7 @@ banned by a Disney official because ALL THE INDIANS LOOKED ALIKE
 which the guy considered to be an insulting stereotype. And yes, this
 means that Barks' original Peeweegah story ALSO can never again be
 used in American comic books.
-<P> Therefore, simply because I feel very anxious for THIS
+Therefore, simply because I feel very anxious for THIS
 PARTICULAR story to see print in English, due to the loads of extra work
 I put into the Peeweegah's Longfellowian dialogue, I offered to REDRAW
 all the Peeweegahs (except the Chief). I'm not sure how to make them all
@@ -418,7 +421,7 @@ before I began the series... and I just hope my fellow Barks fans
 either like it or forgive me for it.
 
 
-<P> The EARLIEST stories or versions of characters can be excused
+The EARLIEST stories or versions of characters can be excused
 from the canon. As we all know, $crooge was originally only intended
 as a one-shot character, then as only a minor supporting character...
 "the rest is history". While doing my "Life of $crooge" series I have
@@ -436,19 +439,19 @@ matter how tiny the fact was or how buried it was in the third sentence
 of the sixth panel of an obscure story, it's ALL incorporated into my
 series, set into granite forevermore, all available in one tale. (pant
 pant pant)
-<P> And as for MY stories, the world that the Ducks live in IS
+And as for MY stories, the world that the Ducks live in IS
 the real world in every detail (except that the people have black
 noses). I never make up silly names for cities, and I never use
 half-accurate gag names for historical figures. I have $crooge meet
 REAL folks in his early life, and he lives in the real world of 1867-1947
 with all places and dates absolutely 100% accurate. No screwing around!
 It's all real.
-<P> (Only the DUCKTALES stories are imaginary. I'd love to do a story
+(Only the DUCKTALES stories are imaginary. I'd love to do a story
 where DUCKTALES is an unauthorized TV series in Duckberg based on
 $crooge's life, and $crooge must sue the creators of the show for slander.)
 
 
-<P> I don't know about Gladstone, but when they publish an album of
+I don't know about Gladstone, but when they publish an album of
 these chapters in Norway, they've already requested to use the "lost
 scripts"... there are the equivalent of about 3 full stories that Byron
 Erickson rejected. I wouldn't mind people seeing these to see what
@@ -456,7 +459,7 @@ stinker stories they might have been inflicted with if not for Byron'
 s editing.
 
 
-<P> In order to explain the Money Bin as being the cash that
+In order to explain the Money Bin as being the cash that
 $crooge earned himself as he trapsed the globe, I decided the Bin
 had to have been built about 50 years before it was first shown
 in that WDC&amp;S issue. So I ignore that one tale, at least the parts
@@ -472,12 +475,12 @@ that boring old Strobl/? tale and saw the bit where he's a shoeshine
 boy chipping mud off a ditchdigger's boots. I feel no obligation to
 stick to anything in a non-Barks story... BUT $crooge as a shoeshine
 boy as his first job seemed quite appropo, so I stuck with it.
-<P> The trick was coming up with a reason for him to be paid with
+The trick was coming up with a reason for him to be paid with
 an American dime when he would still have been in Scotland.
 
 <hr />
 
-<P> Like everyone else, $crooge and Donald and HD&amp;L have always
+Like everyone else, $crooge and Donald and HD&amp;L have always
 spoken in my mind with normal voices. But I was forced to deal with this
 accent stuff in my "Life of $crooge" series; in part 1 I have $crooge's
 family speaking with heavy accents, and $crooge speaking with a slight
@@ -517,7 +520,7 @@ I changed $crooge's attire slightly from that old Barks tale --
 $crooge would not have had his glasses or his spats in 1880. Also, the
 lettering of the riverboat names didn't match the old story either, but
 big deal.
-<P> I just noticed that Egmont must have removed the
+I just noticed that Egmont must have removed the
 manufacturer's name from the plate on safe aboard the Drennan Whyte...
 I should've known this and had Gladstone replace it: "Oso Safe Co.",
 just like $crooge used later.
@@ -533,7 +536,7 @@ to Betler, I think I always had it in my head that he was referring
 to a DIFFERENT visitor to Plain Awful. Strangely, not a soul among
 the many Duck experts who have read my tale ever spotted that goof
 until I received a letter from a reader in Sweden after it was printed.
-<P> When the story is printed again in Germany or the US, the goof
+When the story is printed again in Germany or the US, the goof
 can be easilly remedied by having the old guy be the professor who
 bought the eggs from the Cuzco padre; this has two problems though: if
 it ISN'T the REAL Rhutt Betler there's not much point to the whole
@@ -543,21 +546,21 @@ museums file away stuff and forget what it is.)
 
 <hr />
 
-<P> Wouldn't you say [T. Roosevelt] was the IDEAL person
+Wouldn't you say [T. Roosevelt] was the IDEAL person
 in all of history that $crooge could have gotten inspiration from?! And
 when my research told me that he and $crooge were in the Badlands at the
 exact same time, it was irresistably obvious to base the tale on.
 
 <hr />
 
-<P> As for that scenery, there are sections of the Dakota Badlands
+As for that scenery, there are sections of the Dakota Badlands
 that include all of the elements I used in the backgrounds. But they
 occur NOWHERE all TOGETHER as I depict them, particularly in that
 half-page shot. That was the ol' artistic license.
 
 <hr />
 
-<P> Disney is requiring Gladstone to alter the art on pages 3 and
+Disney is requiring Gladstone to alter the art on pages 3 and
 4 to remove the guns being pointed in $crooge's face. Apparently it's
 okay to show guns, but they can only be used for shooting into the
 ceiling to get people's attention or something. I think they'll take
@@ -567,7 +570,7 @@ such a tiny change as to be silly?
 
 <hr />
 
-<P> I know duckbilled dinosaurs had no teeth. I pointed
+I know duckbilled dinosaurs had no teeth. I pointed
 this out to both Erickson and Clark, saying that I wanted an evil
 looking skull, but liked the duck-bill gag... and they both opted to
 leave it all as is. Besides... *I* never said that was a duck-billed
@@ -602,7 +605,7 @@ MM... but I don't mean to be that disrespectful to poor MM.
 
 <hr />
 
-<P> Chapter 6 will show U$'s first encounter with a young
+Chapter 6 will show U$'s first encounter with a young
 Flintheart, though he never learns his NAME, as he did not recall him
 when they meet in "The Second Richest Duck". In that story it can be
 inferred that Flintheart MIGHT recognize U$ from some previous
@@ -621,7 +624,7 @@ for a writer to see, y'knowwhatimean?
 
 <hr />
 
-<P> I KNEW rats would not eat paper, but the editors felt that I
+I KNEW rats would not eat paper, but the editors felt that I
 was wrong in saying that they ever printed books on parchment. So, even
 though I would have to go back and check my research to see where I
 found that they were able to make parchment thin enough for printing, at
@@ -635,13 +638,14 @@ needed to add the major bit about the Woodchuck emblem which was
 always to be lost to any but the American audience (small as it is)
 due to there not BEING a Woodchuck emblem outside the U.S. --  or
 if there is, not the "J.W.W." emblem which my story involved.
-<P> The other new art involved correcting the Marco Polo error
+The other new art involved correcting the Marco Polo error
 Stefan Dios pointed out. What this involved was some changes in
 dialogue and omitting of two panels on page 13, shifting all the
 panel tiers up one on 13-15, then two new panels for page 15 where
 I simply moved the Marco Polo reference.
 
-<H3>[]</H3>
+<hr />
+
 Also, when I changed the dialogue, I replaced Marco Polo's
 contribution to the Library (until later) by a reference that
 travelling scholars had contributed the great books of the libraries
@@ -651,20 +655,22 @@ maybe they were only secular writings); somebody on here [the mailing
 list] was mentioning I should have done that in the story, and now
 I dood it.
 
-<H3>[]</H3>
+<hr />
+
 Gladstone took a line in "GotLL" where I used the term
 "technicolor yawn" (an admittedly modern bit of soft-grossness that
 I really figured the translators would change) and Disney insisted
 it be changed to "BARF" -- making ME look like the first person to
 use the lovely word "barf" in a Disney comic!
-<P> Well, though I'm still astounded Disney would choose such
+Well, though I'm still astounded Disney would choose such
 crass language, I always wondered why they found "barf" nicer than my
 phrase. The answer is so obvious! "Technicolor" is a COPYWRITED TERM!
 And a company whose MAIN business is making MOVIES had better not screw
 around with the misuse of motion picture trademarks of rival production
 companies!
 
-<H3>[]</H3>
+<hr />
+
 When I wrote the story, I was confused on the issue of WHO
 was the story's main character. Was it a DD story or an U$ story?
 It must have been a DD story since it opened with DD; but U$ was the
@@ -696,7 +702,7 @@ character who can't be alive at that point.
 
 <hr />
 
-<P> I show Jake McDuck all through the "Life of $crooge" series,
+I show Jake McDuck all through the "Life of $crooge" series,
 but he just sorta disappears along the line. By the last chapter he would
 be dead, as would all the other McDucks except $crooge. Naturally I
 don't show or speak of ALL these deaths -- but I DO deal with the deaths
@@ -705,7 +711,7 @@ have ever been in a Disney funnybook.
 
 <hr />
 
-<P> As for whether Jake McDuck was alive at the time of "Christmas
+As for whether Jake McDuck was alive at the time of "Christmas
 for Shacktown"... no. $crooge knew that, that's why he saw right through
 Donald's disguise and gave him the bum's rush. That's my story and I'm
 stickin' to it.
@@ -722,7 +728,7 @@ together.
 
 <hr />
 
-<P> My favorite part was when $crooge's sisters were teasing him
+My favorite part was when $crooge's sisters were teasing him
 about the lock of hair in his safety deposit box, and getting him
 rattled while he was trying to ignore them. Seldom does one of my own
 bits make me chuckle each time I read it, but I thought this scene was
@@ -730,7 +736,7 @@ kinda cute. No. I did not say "cute"!
 
 <hr />
 
-<P> When they reprint that at Gladstone, I need to write into my
+When they reprint that at Gladstone, I need to write into my
 accompanying text some sort of explanation to prevent some readers
 misunderstanding that story's climax. I have gotten a few comments
 from overseas that they were offended by my attempts to "turn $crooge
@@ -754,7 +760,7 @@ it's possible to catch this before it's printed in Europe!
 
 <hr />
 
-<P> I wasn't "forced" to do that Olympics story, but it was
+I wasn't "forced" to do that Olympics story, but it was
 requested, naturally, by the Norwegian editor who is one of the
 nicest people I've ever met and to whom I am greatly obliged for all
 his kindnesses during my visits. Yes, I really DIDN'T want to do the
@@ -768,13 +774,13 @@ Duckburg", so I was figuring that the story was taking
 place in 1952 (the previous Norway Olympics). But then the editors
 decided (as they should) that I should show Lillehammer, so from then on
 I was cooked.
-<P> It was an "imaginary story". I never really happened. That may
+It was an "imaginary story". I never really happened. That may
 be another reason its American publication was of little interest to
 me... I see it as a fictitious fiction.
 
 <hr />
 
-<P> I checked my own photocopies, and I'll be danged if there
+I checked my own photocopies, and I'll be danged if there
 wasn't a lil' Lemming with a Locket. I had completely forgotten I'd
 stuck him in there! I must have done it as an afterthought while
 inking (which is when I stick in sometimes what I think are the
@@ -798,7 +804,7 @@ which I also weave into my series.
 
 <hr />
 
-<P> In many ways, it's my favorite chapter of the series! It is
+In many ways, it's my favorite chapter of the series! It is
 jam-packed with Barks references, it has such a great cast of
 interesting characters, it ties up so many aspects of the series
 past and future, and it really moves at a lightning speed with several
@@ -807,7 +813,7 @@ out like this.
 
 <hr />
 
-<P> I've decided I'll redraw those central battleships when
+I've decided I'll redraw those central battleships when
 Gladstone reprints this chapter. I have lotsa time since they won't get
 close to it until August 1995! The battleships were drawn with great
 pains to make them accurate to 1902, and I was happy to see the
@@ -830,7 +836,7 @@ frame to 1906, which would be about 50 years ago in my timescape.
 
 <hr />
 
-<P> Disney refused to allow Gladstone to reprint the "Voodoo
+Disney refused to allow Gladstone to reprint the "Voodoo
 Hoodoo" story until the art was altered, and when it was Disney
 adopted that version as the "official" version for all future
 reprintings. I had the dilemma of how to depict the characters from
@@ -844,7 +850,7 @@ pointless.
 
 <hr />
 
-<P> In part 11 of the "Life of $crooge" series I begin the story
+In part 11 of the "Life of $crooge" series I begin the story
 with a map which, if you compare the coastline with a map, PINPOINTS
 Duckburg. My comic world and the actual world are identical EXCEPT...
 the section of California north of the 39th parallel is Calisota...
@@ -857,7 +863,7 @@ stories take place, I don't show this CLEARLY... you'd hafta get
 out an atlas and locate the coastline yourself... but that's where
 MY Duckburg is. Any reference Donald ever made to South Burbank or
 Catalina or anything else... I simply ignore.
-<P> There can't be a city as big as Duckburg in that area... and
+There can't be a city as big as Duckburg in that area... and
 if there were, it couldn't SNOW there. And don't anybody tell me it
 doesn't snow in Eureka -- I don't wanna know that. (Anyway, I guess
 I've eliminated the existance of Eureka and all the Eurekans anyway...
@@ -866,7 +872,7 @@ settled or it died out.)
 
 <hr />
 
-<P> Yes, when I laid out the ground to be covered in each Lo$
+Yes, when I laid out the ground to be covered in each Lo$
 chapter, I KNEW #11 was gonna be murder! I had set $crooge up in
 business as a tycoon, but there wasn't much of anything that needed to
 be said about his life between 1902 and 1947 ("Bear Mountain"). There
@@ -888,13 +894,13 @@ finally did so.
 
 <hr />
 
-<P> PART 2 - page 1: YOW -- I drew $crooge with TWO pairs of glasses
+PART 2 - page 1: YOW -- I drew $crooge with TWO pairs of glasses
 in panel 4! How could I spend such endless hours on those pages and not
 see that till now?
 
 <hr />
 
-<P> The "official" Egmont title to Lo$ #11 is "The Richest Duck in
+The "official" Egmont title to Lo$ #11 is "The Richest Duck in
 the World". Sometimes Byron and I don't quite agree on everything, but
 he's the boss; he chose that as the title for #11 and the title for #12
 will be "The Recluse of McDuck Mansion". If I ultimately decide I don't
@@ -915,17 +921,17 @@ a manner that I have not set to paper yet.
 
 <hr />
 
-<P> The entire story takes place on Christmas Day, 1947. I knew
+The entire story takes place on Christmas Day, 1947. I knew
 the European editors would change it, but the sign on the TV store (on
 the page where you see that Donald &amp; HDL have been watching the opening
 sequence on TV) is supposed to say "SALE! Closeout on 1947 model TVs!"
 
 <hr />
 
-<P> Perhaps in 1 1/2 years when Gladstone gets around to that
+Perhaps in 1 1/2 years when Gladstone gets around to that
 chapter, I'll do them an extra 4 or 5 pages of action to stick into
 the tale.
-<P> I was forced to decide on how to draw $crooge, balancing
+I was forced to decide on how to draw $crooge, balancing
 his whiskers and glasses between how Barks drew them in CoBM, and how
 they MUST look at the end of my series (the "classic" $crooge outfit
 and appearance). This is just one of the many decisions I was
@@ -944,7 +950,7 @@ clip-file for the "60th Birthday" story I'm currently drawing.
 
 <hr />
 
-<P> Please excuse the artists who gave the Electric [Grandma's car]
+Please excuse the artists who gave the Electric [Grandma's car]
 exhaust fumes. I just used the Electric in my "Donald Duck 60th
 Birthday" story, and quickly found that there's no other way to show
 that the Electric is moving unless there's a little puff behind it,
@@ -960,10 +966,10 @@ and DD is supposed to START to say it but interrupt himself when he sees
 the surprise party. The letterer must not have understood my frequent
 use of an ellipsis in my script (for an interruption in mid-sentence),
 and was kind enough to complete Donald's sentence for him.
-<P> In one panel there is a totally EMPTY word balloon at the bottom
+In one panel there is a totally EMPTY word balloon at the bottom
 which the letterer didn't seem to see. He put the intended line into
 the balloon above, but left the lower balloon void.
-<P> In the family-tree that Gus Goose chalks out on the brick wall,
+In the family-tree that Gus Goose chalks out on the brick wall,
 I went to great pains to make it quite accurate, and left room for the
 letterer to write in the two names which were needed for that
 discussion... $crooge and Gus. But even though the script showed the
@@ -971,7 +977,7 @@ proper placement, and even though common sense would tell you that
 $crooge is older than Gus, and even though a blind guy woulda' had a
 50-50 chance of labelling it correctly, this letterer got it
 bass-ackwards.
-<P> Finally, the story is built around a key gag involving DD
+Finally, the story is built around a key gag involving DD
 writing his date of birth down in a personnel file which somebody then
 misreads; and the whole issue is scheduled and built on the fact that
 June 9 is DD's birthday. Well, this letterer has DD writing into the
@@ -989,7 +995,7 @@ WORTH it -- it took me 2 or 3 weeks longer than it should have!
 
 <hr />
 
-<P> I placed that display of Croesus' treasure in the museum in "The
+I placed that display of Croesus' treasure in the museum in "The
 Son of the Sun" for two reasons. First, I had something different in
 that panel which Byron had me remove, though I can't recall why he
 didn't like it -- I had a freezer with a window in it showing it
@@ -1059,7 +1065,7 @@ cover where the main character should be (as in the direction we read).
 
 <hr />
 
-<P> Disney wanted to put my name on the cover of the issue that
+Disney wanted to put my name on the cover of the issue that
 reprinted "Return to Xanadu", but I said that I would decline having
 my name on a cover before Barks had his name on a cover. I think Barks
 and I shared that honor of being the first people to get cover credits
@@ -1101,7 +1107,7 @@ chapter also. Now, normally, Gladstone could just have free useage
 of my German cover... but the Germans won't be publishing until
 around April or so (it's probably not yet set) and Gladstone will
 need a cover BEFORE that.
-<P> Since they cannot use the German cover before the Germans do,
+Since they cannot use the German cover before the Germans do,
 I need to do ANOTHER version for Gladstone which will be the EXACT
 same scene. Why not? I try to pick the best scene in the story for
 the cover, so why do a bad cover for Gladstone instead of the same
@@ -1111,7 +1117,7 @@ in this Disney stuff.
 
 <hr />
 
-<P> The Beagle Boys on the [Gladstone] cover should NOT have their
+The Beagle Boys on the [Gladstone] cover should NOT have their
 prison numbers. But I thought readers would find them more
 recognizeable, especially at that distance, if they looked completely
 like the modern BB's, particularly since they would not yet have read
@@ -1146,7 +1152,7 @@ nice to me.
 
 <hr />
 
-<P> As to the overlapping skis, I DO recall that problem: I drew the
+As to the overlapping skis, I DO recall that problem: I drew the
 characters first, then found the problem of fitting their long skis in
 between the short distance between DD &amp; HDL. At one point, I almost
 decided the only answer was to put them all on ONE pair of skis... but
@@ -1169,7 +1175,7 @@ the name Thelma came from nowhere, and didn't go as well with "Duck".
 
 <hr />
 
-<P> As for Gladstone's relation to $crooge, "Race to the South Seas"
+As for Gladstone's relation to $crooge, "Race to the South Seas"
 IS the story to go to... but only partially, as Barks made an ERROR in
 that story in explaining who Gladstone was to $crooge. Barks pointed
 this out to me himself when I was quizzing him while building my
@@ -1181,7 +1187,7 @@ contradictory to the previous line and should be ignored.
 
 <hr />
 
-<P> And what other changes did I make in Barks old Family Tree? The
+And what other changes did I make in Barks old Family Tree? The
 only other one I can think of is that I
 eliminated 
 the business of
@@ -1197,7 +1203,7 @@ she'd be DEAD by now, anyhow. $crooge is the last McDuck alive.)
 
 <hr />
 
-<P> I originally had Fanny as Grandma's sister. Byron didn't
+I originally had Fanny as Grandma's sister. Byron didn't
 like the idea of Gus Goose being of the same generation of ducks as
 Donald's father and of $crooge McDuck.
 
@@ -1208,7 +1214,7 @@ I drew that cover for the large interior article about Scrooge
 and me and that "Life of $crooge" series -- they told me that it was
 like doing the cover of TIME in America, AFTENPOSTEN is that big in
 Norway. Who noze.
-<P> Anyway, what the cover is showing is sort of an "imaginary
+Anyway, what the cover is showing is sort of an "imaginary
 scene" of the young $crooge seeing a copy of that newspaper and dreaming
 of moving to Norway... part of the thrust of the article is how popular
 the Ducks are in Norway/Scandanavia, and that the characters seem
@@ -1218,6 +1224,3 @@ recognizable structure to a Norwegeian, done up like a "dual" Money
 Bin. It's a gag that would be lost on anyone outside of Oslo.
 
 <HR>Last updated February 17, 1999.<BR>
-<P>[<A HREF="index.html">Creators</A>] [<A HREF="../inducks.html">The Inducks</A>] [<A HREF="../index.html">DCML home</A>]
-</BODY>
-</HTML>
