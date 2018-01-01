@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 12 - The Richest Duck in the World"
 permalink: "DUCK/chapter_12_-_the_richest_duck_in_the_world"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Richest_Duck_in_the_World
 images:
   "cover":

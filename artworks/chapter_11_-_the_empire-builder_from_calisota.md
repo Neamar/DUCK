@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 11 - The Empire-Builder from Calisota"
 permalink: "DUCK/chapter_11_-_the_empire-builder_from_calisota"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Empire-Builder_from_Calisota
 images:
   "cover":

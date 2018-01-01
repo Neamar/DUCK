@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 08B - The Prisoner of White Agony Creek"
 permalink: "DUCK/chapter_08b_-_the_prisoner_of_white_agony_creek"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Prisoner_of_White_Agony_Creek
 images:
   "cover":

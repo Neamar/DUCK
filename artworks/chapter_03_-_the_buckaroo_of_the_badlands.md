@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 03 - The Buckaroo of the Badlands"
 permalink: "DUCK/chapter_03_-_the_buckaroo_of_the_badlands"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Buckaroo_of_the_Badlands
 images:
   "cover":

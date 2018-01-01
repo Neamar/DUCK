@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 03B - The Cowboy Captain of the Cutty Sark"
 permalink: "DUCK/chapter_03b_-_the_cowboy_captain_of_the_cutty_sark"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Cowboy_Captain_of_the_Cutty_Sark
 images:
   "cover":

@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 02 - The Master of the Mississippi"
 permalink: "DUCK/chapter_02_-_the_master_of_the_mississippi"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Master_of_the_Mississippi
 images:
   "cover":

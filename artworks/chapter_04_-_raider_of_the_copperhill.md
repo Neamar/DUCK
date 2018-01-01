@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 04 - Raider of the Copperhill"
 permalink: "DUCK/chapter_04_-_raider_of_the_copperhill"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/Raider_of_the_Copper_Hill
 images:
   "cover":

@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 08C - Hearts of the Yukon"
 permalink: "DUCK/chapter_08c_-_hearts_of_the_yukon"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Life_and_Times_of_Scrooge_McDuck
 images:
   "cover":

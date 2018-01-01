@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 07 - Dream Time Duck of the Never-Never"
 permalink: "DUCK/chapter_07_-_dream_time_duck_of_the_never-never"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/Dreamtime_Duck_of_the_Never-Never
 images:
   "cover":

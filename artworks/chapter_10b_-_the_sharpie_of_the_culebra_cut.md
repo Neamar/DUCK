@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 10B - The Sharpie of the Culebra Cut"
 permalink: "DUCK/chapter_10b_-_the_sharpie_of_the_culebra_cut"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Sharpie_of_the_Culebra_Cut
 images:
   "cover":

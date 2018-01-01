@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 09 - The Billionaire of Dismal Downs"
 permalink: "DUCK/chapter_09_-_the_billionaire_of_dismal_downs"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Billionaire_of_Dismal_Downs
 images:
   "cover":

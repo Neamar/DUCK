@@ -1,9 +1,10 @@
 ---
 layout: artwork
 category: artwork
-serie: The Life and Times of Scrooge McDuck
 title: "Chapter 00 - Of Ducks, Dimes and Destinies"
 permalink: "DUCK/chapter_00_-_of_ducks,_dimes_and_destinies"
+serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/Of_Ducks,_Dimes_and_Destinies
 images:
   "first page":

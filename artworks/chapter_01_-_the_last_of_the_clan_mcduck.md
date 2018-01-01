@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 01 - The Last of the Clan McDuck"
 permalink: "DUCK/chapter_01_-_the_last_of_the_clan_mcduck"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_Last_of_the_Clan_McDuck
 images:
   "cover":

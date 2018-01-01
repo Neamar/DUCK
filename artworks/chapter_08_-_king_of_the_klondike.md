@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 08 - King of the Klondike"
 permalink: "DUCK/chapter_08_-_king_of_the_klondike"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/King_of_the_Klondike
 images:
   "cover":

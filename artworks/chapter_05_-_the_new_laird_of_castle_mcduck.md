@@ -4,6 +4,7 @@ category: artwork
 title: "Chapter 05 - The New Laird of Castle McDuck"
 permalink: "DUCK/chapter_05_-_the_new_laird_of_castle_mcduck"
 serie: The Life and Times of Scrooge McDuck
+serie_link: /the_life_and_times_of_scrooge_mcduck
 more_info: https://en.wikipedia.org/wiki/The_New_Laird_of_Castle_McDuck
 images:
   "cover":
