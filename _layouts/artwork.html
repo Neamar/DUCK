@@ -35,7 +35,7 @@ layout: template
 	<h2 id="{{image[0]|slugify}}">{{ image[0] |capitalize }}</h2>
 	<div id="{{image[0]|slugify}}-image" class="artwork-wrapper">
 		{% if image[1].comment %}
-		<div class="alert alert-secondary" role="alert">
+		<div class="alert alert-warning" role="alert">
 		  {{image[1].comment}}
 		</div>
 		{% elsif image[1].duck == blank %}
