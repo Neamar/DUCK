@@ -8,7 +8,8 @@ images:
   "cover":
     image: "images/Treasure Under Glass_cover.jpg"
     thumbnail: "images/thumbnails/Treasure Under Glass_cover.jpg"
-    comment: "No dedication"
+    comment: "It's likely this cover was orginally mirrored, and then changed to fit the UPC code. So I guess if you find a KCUD it still counts?"
+
   "first page":
     image: "images/Treasure Under Glass.jpg"
     thumbnail: "images/thumbnails/Treasure Under Glass.jpg"

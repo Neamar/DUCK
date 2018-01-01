@@ -13,6 +13,7 @@ images:
     image: "images/A Letter From Home_prologue.jpg"
     thumbnail: "images/thumbnails/A Letter From Home_prologue.jpg"
     comment: "Prologue has no dedication"
+    no_duck: true
   "first page":
     image: "images/A Letter From Home.jpg"
     thumbnail: "images/thumbnails/A Letter From Home.jpg"

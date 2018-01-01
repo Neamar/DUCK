@@ -8,4 +8,5 @@ images:
     image: "images/Back in Time for a Dime!.jpg"
     thumbnail: "images/thumbnails/Back in Time for a Dime!.jpg"
     comment: "Don made the story, but he didn't draw it: no D.U.C.K here."
+    no_duck: true
 ---

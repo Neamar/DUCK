@@ -8,6 +8,7 @@ images:
     image: "images/Nobody's Business.jpg"
     thumbnail: "images/thumbnails/Nobody's Business.jpg"
     comment: "Dedication is in the last page of the issue."
+    no_duck: true
   "last page":
     image: "images/Nobody's Business_last page.jpg"
     thumbnail: "images/thumbnails/Nobody's Business_last page.jpg"

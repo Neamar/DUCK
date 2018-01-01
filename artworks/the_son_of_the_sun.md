@@ -12,7 +12,7 @@ images:
   "first page":
     image: "images/The Son Of The Sun.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun.jpg"
-    comment: "No dedication"
+    comment: "Dedication was removed by Gladstone (publisher) since this is Rosa's first story"
   "last page":
     image: "images/The Son Of The Sun_last.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun_last.jpg"

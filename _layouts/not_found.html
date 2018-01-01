@@ -21,15 +21,26 @@ layout: template
 
 <p>Happy hunting!</p>
 
+<p class="small">(<a href="{% link index.md %}">would you rather see all the images?</a>)</p>
+
 <div class="artworks">
 {% for artwork in site.pages %}
-  {% if artwork.serie == "The Life and Times of Scrooge McDuck" %}
+  {% assign should_display=false %}
+  {% for image in artwork.images %}
+    {% if image[1].duck == nil and image[1].no_duck == nil %}
+      {% assign should_display=true %}
+    {% endif %}
+  {% endfor %}
+
+  {% if should_display == true %}
     <h2>
       <a href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a>
     </h2>
 
     {% for image in artwork.images %}
-      <a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="/{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
+      {% if image[1].duck == nil %}
+        <a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="/{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
+      {% endif %}
     {% endfor %}
   {% endif %}
 {% endfor %}
