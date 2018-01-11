@@ -11,5 +11,4 @@ images:
   "first page":
     image: "images/On Stolen Time.jpg"
     thumbnail: "images/thumbnails/On Stolen Time.jpg"
-    comment: "No dedication"
 ---

@@ -38,7 +38,7 @@ layout: template
 		<div class="alert alert-warning" role="alert">
 		  {{image[1].comment}}
 		</div>
-		{% elsif image[1].duck == blank %}
+		{% elsif image[1].duck == nil %}
 		<div class="alert alert-secondary" role="alert">
 		  D.U.C.K. not found. Think you have it? Send an email at <tt>duck@neamar.fr</tt>!
 		</div>
