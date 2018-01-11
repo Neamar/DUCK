@@ -9,6 +9,10 @@ images:
     image: "images/Return To Plain Awful_cover.jpg"
     thumbnail: "images/thumbnails/Return To Plain Awful_cover.jpg"
     comment: "No dedication"
+  "cover2":
+    image: "images/Return To Plain Awful_cover2.jpg"
+    duck: "images/Return To Plain Awful_cover2_DUCK.jpg"
+    thumbnail: "images/thumbnails/Return To Plain Awful_cover2.jpg"
   "first page":
     image: "images/Return To Plain Awful.jpg"
     thumbnail: "images/thumbnails/Return To Plain Awful.jpg"

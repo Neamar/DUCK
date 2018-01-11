@@ -8,7 +8,6 @@ images:
   "cover":
     image: "images/The Guardians of the Lost Library_cover.jpg"
     thumbnail: "images/thumbnails/The Guardians of the Lost Library_cover.jpg"
-    comment: "No dedication"
   "first page":
     image: "images/The Guardians of the Lost Library.jpg"
     thumbnail: "images/thumbnails/The Guardians of the Lost Library.jpg"

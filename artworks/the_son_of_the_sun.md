@@ -8,7 +8,6 @@ images:
   "cover":
     image: "images/The Son Of The Sun_cover.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun_cover.jpg"
-    comment: "No dedication"
   "first page":
     image: "images/The Son Of The Sun.jpg"
     thumbnail: "images/thumbnails/The Son Of The Sun.jpg"
