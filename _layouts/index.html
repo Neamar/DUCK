@@ -31,15 +31,15 @@ layout: template
       <div class="alert alert-info" role="alert">
       Click on any image to enlarge and see the dedication!
     </div>
-{% for artwork in site.pages %}
+{% for artwork in site.pages -%}
   {% if artwork.layout == "artwork" %}
   	<h2>
       <a href="{{ site.github.url }}/{{ artwork.permalink }}" title="DUCK dedication in {{ artwork.title}}">{{ artwork.title }}</a>
     </h2>
 
-  	{% for image in artwork.images %}
+  	{% for image in artwork.images -%}
   		<a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
   	{% endfor %}
-  {% endif %}
+  {%- endif %}
 {% endfor %}
 </div>
