@@ -11,5 +11,5 @@ images:
   "first page":
     image: "images/Recalled Wreck.jpg"
     thumbnail: "images/thumbnails/Recalled Wreck.jpg"
-    comment: "No dedication"
+    duck: "images/Recalled Wreck_DUCK.jpg"
 ---
