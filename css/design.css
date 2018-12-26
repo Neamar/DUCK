@@ -56,3 +56,8 @@ h1, h2, h3 {
 .artworks img {
   max-width: 100%;
 }
+
+.header-logo {
+  height: 1em;
+  vertical-align: sub;
+}
