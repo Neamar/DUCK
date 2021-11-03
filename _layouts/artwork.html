@@ -46,7 +46,7 @@ layout: template
 		<img src="{{ site.github.url }}/{{ image[1].image }}" alt="{{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].image }}" class="artwork" />
 		{% if image[1].duck %}
 		<p class="text-center toggle-dedication">
-			<a class="btn btn-primary" role="button" href="javascript:show('{{image[0]|slugify}}')">Click to highlight the D.U.C.K dedication</a>
+			<a class="btn btn-primary" role="button" href="#" onclick="return show('{{image[0]|slugify}}')">Click to highlight the D.U.C.K dedication</a>
 		</p>
 		{% endif %}
 	</div>
@@ -55,7 +55,7 @@ layout: template
 	<div id="{{image[0]|slugify}}-duck" style="display: none" class="artwork-wrapper">
 		<img src="{{ site.github.url }}/{{ image[1].duck }}" alt="D.U.C.K in {{ page.title }} {{ image[0] }}" data-magnify-src="{{ site.github.url }}/{{ image[1].duck }}" class="artwork" />
 		<p class="text-center toggle-dedication">
-			<a class="btn btn-primary" role="button" href="javascript:hide('{{image[0]|slugify}}')">Click to go back to original</a>
+			<a class="btn btn-primary" role="button" href="#" onclick="return hide('{{image[0]|slugify}}')">Click to go back to original</a>
 		</p>
 	</div>
 	{% endif %}
