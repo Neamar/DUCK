@@ -94,5 +94,11 @@ $(document).ready(function() {
 	    console.log('Magnification powers activated!');
 	  }
 	});
+
+	if(document.location.hash.includes('-solution')) {
+		const hash = document.location.hash.replace('-solution', '').replace('#', '');
+		show(hash);
+		document.location.hash = hash;
+	}
 });
 </script>
