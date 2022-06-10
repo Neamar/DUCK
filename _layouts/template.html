@@ -13,7 +13,7 @@
   <meta name="og:title" content="D.U.C.K dedication &quot;{{ page.title }}&quot;" />
   <meta name="og:description" content="As a game, Don Rosa hid the four letters D.U.C.K in most of his artworks. See it for {{ page.title }}" />
   {% for image in page.images %}
-  <meta name="og:image" content="{{ site.github.url }}/{{image[1].image}}" />
+  <meta name="og:image" content="{{ site.github.url }}/{{ image[1].image | replace: " ", "%20"}}" />
   {% break %}
   {% endfor %}
   {% endif %}
