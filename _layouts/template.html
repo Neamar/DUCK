@@ -17,6 +17,7 @@
   <meta name="og:image" content="{{ site.github.url }}/{{ image[1].image | replace: " ", "%20"}}" />
   {% break %}
   {% endfor %}
+  <link rel="canonical" href="{{ site.github.url }}/{{ page.permalink }}" />
   {% endif %}
   <link rel="icon" href="/favicon.png">
   <title>{% if page.layout == "artwork" %}
