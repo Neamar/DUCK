@@ -31,6 +31,7 @@ layout: template
       <div class="alert alert-info" role="alert">
       Click on any image to enlarge and see the dedication!
     </div>
+{% assign first_story = true %}
 {% for artwork in site.pages -%}
   {% if artwork.layout == "artwork" %}
   	<h2>
@@ -38,8 +39,9 @@ layout: template
     </h2>
 
   	{% for image in artwork.images -%}
-  		<a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}" /></a>
+  		<a href="{{ site.github.url }}/{{ artwork.permalink }}#{{ image[0] | slugify }}"><img src="{{ image[1].thumbnail }}" alt="Thumbnail: {{ artwork.title }} {{ image[0] }}"{% unless first_story %} loading="lazy"{% endunless %} /></a>
   	{% endfor %}
+  {% assign first_story = false %}
   {%- endif %}
 {% endfor %}
 </div>
