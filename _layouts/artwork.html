@@ -70,6 +70,7 @@ layout: template
 function show(id) {
 	document.getElementById(id + "-image").style.display = "none";
 	document.getElementById(id + "-duck").style.display = "block";
+	$('#' + id + '-duck .artwork').magnify(magnifyOptions);
 	return false;
 }
 
@@ -86,14 +87,16 @@ function hide(id) {
 <script src="/js/jquery.magnify-mobile.js"></script>
 
 <script>
+var magnifyOptions = {
+	magnifiedWidth: 1500,
+	magnifiedHeight: 1500,
+	afterLoad: function() {
+		console.log('Magnification powers activated!');
+	}
+};
+
 $(document).ready(function() {
-  $('.artwork').magnify({
-  	magnifiedWidth: 1500,
-  	magnifiedHeight: 1500,
-	  afterLoad: function() {
-	    console.log('Magnification powers activated!');
-	  }
-	});
+	$('.artwork-wrapper:visible .artwork').magnify(magnifyOptions);
 
 	if(document.location.hash.includes('-duck')) {
 		const hash = document.location.hash.replace('-duck', '').replace('#', '');
