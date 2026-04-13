@@ -12,4 +12,8 @@ images:
     image: "images/War Of The Wendigo.jpg"
     thumbnail: "images/thumbnails/War Of The Wendigo.jpg"
     duck: "images/War Of The Wendigo_DUCK.jpg"
+  "page 18":
+    image: "images/War Of The Wendigo_18.jpg"
+    thumbnail: "images/thumbnails/War Of The Wendigo_18.jpg"
+    duck: "images/War Of The Wendigo_18_DUCK.jpg"
 ---

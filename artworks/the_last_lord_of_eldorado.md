@@ -11,7 +11,7 @@ images:
     duck: "images/The Last Lord Of Eldorado_cover_DUCK.jpg"
   "cover 2":
     image: "images/The Last Lord Of Eldorado_cover_2.jpg"
-    thumbnail: "images/thumbnails/The Last Lord Of Eldorado_cover.jpg"
+    thumbnail: "images/thumbnails/The Last Lord Of Eldorado_cover_2.jpg"
     duck: "images/The Last Lord Of Eldorado_cover_2_DUCK.jpg"
   "first page":
     image: "images/The Last Lord Of Eldorado.jpg"
